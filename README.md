@@ -26,3 +26,5 @@
     / Cod. 20141020054
 *  [GitHub](https://github.com/CristianC4)
     @CristianC4
+    - Cristian Camilo Cuervo
+    / Cod. 20142020010

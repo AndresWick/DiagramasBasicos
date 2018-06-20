@@ -4,7 +4,7 @@
  # Diagrama de componentes
  ![GitHub](/Diagrama%20Componentes.JPG)
  # Diagrama de paquetes
- ![GitHub](/D%20Paquetes.jpg)
+ ![GitHub](/DPaquetes.jpg)
  # Diagrama de estados
  ![GitHub](/Diagrama%20de%20estado.JPG)
  # Diagrama de secuencia

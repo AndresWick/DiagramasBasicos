@@ -4,7 +4,7 @@
  # Diagrama de componentes
  ![GitHub](/Diagrama%20Componentes.JPG)
  # Diagrama de paquetes
- 
+ ![GitHub](/D%20Paquetes.JPG)
  # Diagrama de estados
  ![GitHub](/Diagrama%20de%20estado.JPG)
  # Diagrama de secuencia
@@ -16,6 +16,8 @@
   Autores:
 *  [GitHub](https://github.com/preguntaud)
     @preguntaud
+    - Oscar Eduardo Calderón R.
+    / Cod. 20142020110
 *  [GitHub](https://github.com/AndresWick)
     @AndresWick
     - Carlos Andrés Aguirre Cañas
